@@ -178,8 +178,8 @@ section {
 
 .section__pic-container{
     display: flex;
-    height: 650px;
-    width: 650px;
+    height: 400px;
+    width: 400px;
     margin: auto 0;
 }
 
@@ -320,8 +320,8 @@ section {
 }
 
 .section__pic-container{
-    height: 650px;
-    width: 650px;
+    height: 400px;
+    width: 400px;
     margin: auto 0;
 }
 
